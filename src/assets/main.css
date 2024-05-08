@@ -1,0 +1,53 @@
+@font-face {
+    font-family: "Saira";
+    font-weight: 100;
+    src: local("Saira"), url("/fonts/Saira/Saira-Thin.woff2") format("woff2"), url("/fonts/Saira/Saira-Thin.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: "Saira";
+    font-weight: 200;
+    src: local("Saira"), url("/fonts/Saira/Saira-ExtraLight.woff2") format("woff2"), url("/fonts/Saira/Saira-ExtraLight.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: "Saira";
+    font-weight: 300;
+    src: local("Saira"), url("/fonts/Saira/Saira-Light.woff2") format("woff2"), url("/fonts/Saira/Saira-Light.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: "Saira";
+    font-weight: 400;
+    src: local("Saira"), url("/fonts/Saira/Saira-Regular.woff2") format("woff2"), url("/fonts/Saira/Saira-Regular.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: "Saira";
+    font-weight: 500;
+    src: local("Saira"), url("/fonts/Saira/Saira-Medium.woff2") format("woff2"), url("/fonts/Saira/Saira-Medium.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: "Saira";
+    font-weight: 600;
+    src: local("Saira"), url("/fonts/Saira/Saira-SemiBold.woff2") format("woff2"), url("/fonts/Saira/Saira-SemiBold.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: "Saira";
+    font-weight: 700;
+    src: local("Saira"), url("/fonts/Saira/Saira-Bold.woff2") format("woff2"), url("/fonts/Saira/Saira-Bold.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: "Saira";
+    font-weight: 800;
+    src: local("Saira"), url("/fonts/Saira/Saira-ExtraBold.woff2") format("woff2"), url("/fonts/Saira/Saira-ExtraBold.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: "Saira";
+    font-weight: 900;
+    src: local("Saira"), url("/fonts/Saira/Saira-Black.woff2") format("woff2"), url("/fonts/Saira/Saira-Black.woff") format("woff");
+  }
